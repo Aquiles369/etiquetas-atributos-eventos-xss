@@ -19,7 +19,7 @@
 <br><br> 
 
 <p align="center">
- <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_plataformas.gif"/>
+ <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_etiquetas_Xss.gif"/>
 </p>
 
 <br>
