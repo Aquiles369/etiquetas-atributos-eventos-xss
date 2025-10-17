@@ -15,7 +15,7 @@
 
 <br>
 
- **Un arsenal de fuentes donde podés leer informes reales de bug bounty, aprender cómo los cazadores estructuran sus reportes, descubrir nuevas técnicas, inspirarte para tus propias cadenas de explotación y mejorar exponencialmente la calidad de tus informes.** 
+ **Este repositorio concentra en un solo lugar todas las etiquetas HTML, atributos y eventos existentes (incluidos obsoletos, experimentales, SVG y MathML), listos para usar en fuzzing, payload generation, bypasses de WAF y explotación de XSS. Es una base de datos ofensiva que ahorra horas de búsqueda y documentación dispersa, ideal para tu arsenal de bug bounty.** 
 <br><br> 
 
 <p align="center">
@@ -26,31 +26,31 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJoNDR3c2ViZm54c3dvbnpuNWMwOXp0eWJ5eWV0b3M1bDR6NWY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3zSkxzR51JN3sQxme/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
-**Muchos hunters nuevos no saben dónde encontrar reportes reales ni cómo se ve un informe profesional. Esta sección resuelve ese problema reuniendo todas las fuentes clave en un solo lugar, evitando que pierdas horas buscando por tu cuenta.**
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJhaDhkcGdhejVkdHUyZWlvd2M1cDlyNHU4NzJqZ2F6bGF6Y3p3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UvkZpwSnl5EQs0butY/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
+**En el mundo real, la información sobre etiquetas, atributos y eventos está fragmentada en múltiples sitios, estándares y documentación oficial. Muchos hunters pierden tiempo o pasan por alto vectores importantes simplemente porque no tienen una lista completa y práctica a mano.**
 <br><br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM0djlqemplbDdmeW5jNHlicGRseTRvaXZvcHc2bDVlcHFob3VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6X1MJobsLdHcX14PH/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Acceso a cientos de informes reales para estudiar técnicas y cadenas.<br><br>
-• Inspira ideas para tus propias pruebas.<br><br>
-• Mejora drásticamente tu forma de redactar reportes.<br><br>
-• Permite analizar vulnerabilidades por tipo (XSS, SSRF, IDOR, etc.) con ejemplos concretos.<br><br>
-• Ayuda a entender qué impacto esperan las plataformas y cómo califican severidades.** <br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY0MGpneDFkaDU0aW9jeGJrd2c5MTNzazVydTUweTc2bTVyaTBkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zG0TlwXJgeaLiqrwea/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+**• Reúne en un solo archivo todas las superficies de ataque posibles para XSS.
+  • Permite generar payloads creativos y mutaciones más complejas.
+  • Acelera la creación de diccionarios personalizados para fuzzing y herramientas.
+  • Mejora tu capacidad de detección de vectores olvidados o poco comunes.
+  • Ayuda a simular escenarios reales y probar la robustez de filtros y WAFs.** <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1rcGliMmkwb2FtaWNzdGhxZW9qazR3OHAybm83dzdqaTI0dDhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mlukz0qzut5MlTtL41/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtrbGxjbDNoaXVtczBuYzVqN2MxN3p3ZmJ5cmR4aGdwNDlhOXl6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMkdLKfomkpDGNM9NB/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-Una colección curada de las mejores fuentes para leer informes de bug bounty, desde Medium hasta repositorios en GitHub, pasando por bases públicas como HackerOne, Google o pentester.land.<br><br>
+Un repositorio ofensivo con todas las etiquetas, atributos y eventos HTML/SVG/MathML listos para ser usados en bug bounty, fuzzing y generación de payloads XSS avanzados.<br><br>
 
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMzb2Y0amtxeng5Z3lxcTZ0MDE1eWtvbncyYnlzcGNyYnQ3NWUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s68DFdTIJTo50USDQn/giphy.gif" width = 80px>  </picture> Plataformas para informes <br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6M3BuMXBseG41M3BvZzRkZTFzY3VodXFocTc2MndwOTZobWh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f74M5EfM3Dl1soswj5/giphy.gif" width = 80px>  </picture> Lista etiquetas atributos eventos XSS <br><br>
 
 
 - Estos métodos HTTP son esenciales para auditorías, fuzzing y bug bounty. Conocerlos permite detectar comportamientos inesperados, endpoints olvidados o funciones internas peligrosas en APIs y servidores.<br><br>
@@ -1524,7 +1524,7 @@ x6_eventos_html:
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Quien estudia los informes del pasado, descubre los bugs del futuro.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Conoce cada etiqueta, domina cada vector — el XSS nace donde otros dejan de mirar.”
 <br>
 
 
