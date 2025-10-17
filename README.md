@@ -26,7 +26,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJhaDhkcGdhejVkdHUyZWlvd2M1cDlyNHU4NzJqZ2F6bGF6Y3p3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UvkZpwSnl5EQs0butY/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR1b3ZrY2UzajNxb2RwOTB2YWVjcGdhOHdzOHpjc21wNGJrb2VscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XvLd3xxKzYS1rtyOUg/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
 **En el mundo real, la información sobre etiquetas, atributos y eventos está fragmentada en múltiples sitios, estándares y documentación oficial. Muchos hunters pierden tiempo o pasan por alto vectores importantes simplemente porque no tienen una lista completa y práctica a mano.**
 <br><br>
 
@@ -53,7 +53,7 @@ Un repositorio ofensivo con todas las etiquetas, atributos y eventos HTML/SVG/Ma
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6M3BuMXBseG41M3BvZzRkZTFzY3VodXFocTc2MndwOTZobWh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f74M5EfM3Dl1soswj5/giphy.gif" width = 80px>  </picture> Lista etiquetas atributos eventos XSS <br><br>
 
 
-- Estos métodos HTTP son esenciales para auditorías, fuzzing y bug bounty. Conocerlos permite detectar comportamientos inesperados, endpoints olvidados o funciones internas peligrosas en APIs y servidores.<br><br>
+- Tu diccionario maestro de superficie HTML: etiquetas, atributos y eventos reunidos en un solo lugar para explotar cada rincón posible.<br><br>
 
 ## Lista de etiquetas html: <br>
 
